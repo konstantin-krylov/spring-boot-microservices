@@ -6,6 +6,7 @@
     <modules>
         <module>catalog-service</module>
         <module>config-server</module>
+        <module>service-registry</module>
     </modules>
 
     <groupId>com.epam.learning</groupId>
